@@ -27,6 +27,6 @@ Hey there! 👋<br>I'm Sedetil, a Full Stack Developer with a passion for crafti
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sedetil/Sedetil/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Sedetil/Sedetil/output/github-snake.svg" alt="Snake animation" />
 
 ###
