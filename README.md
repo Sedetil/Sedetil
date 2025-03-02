@@ -26,7 +26,7 @@ Love working with Laravel, Next.js, and Flutter to build modern, scalable applic
 
 </div>
 
-## 🐍 Snake Animation:
+## 🐍 Contribution Activity:
 <div align="center">
   <img src="https://raw.githubusercontent.com/Sedetil/Sedetil/output/github-snake.svg" alt="Snake animation" />
 </div>
