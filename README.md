@@ -4,7 +4,7 @@ I'm Sedetil, a Full Stack Developer with a passion for crafting awesome digital 
 Love working with Laravel, Next.js, and Flutter to build modern, scalable applications.  
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Wanz-Bot#7167) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1069445812591009825) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/alwannabil_priyanto)  
 
 ## 💻 Tech Stack:
