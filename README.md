@@ -56,6 +56,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sedetil/Sedetil/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Sedetil/Sedetil/refs/heads/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
